@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Recent Tweet Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-28 04:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.5.5"
+
+#: view/admin/settings.php:37
+msgid "Access Token"
+msgstr ""
+
+#: view/admin/settings.php:44
+msgid "Access Token Secret"
+msgstr ""
+
+#. Author of the plugin
+msgid "aviplugins.com"
+msgstr ""
+
+#: view/admin/settings.php:23
+msgid "Consumer Key"
+msgstr ""
+
+#: view/admin/settings.php:30
+msgid "Consumer Secret"
+msgstr ""
+
+#: view/admin/settings.php:17
+msgid "Default is 5"
+msgstr ""
+
+#: tweet-widget.php:9
+msgid "Display recent tweets in widget"
+msgstr ""
+
+#: includes/class-tweets.php:30
+msgid "Error: Keys not found!"
+msgstr ""
+
+#: view/admin/settings.php:59
+msgid "How To Get Twitter API Keys"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/twitter-feed-afo/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.aviplugins.com/"
+msgstr ""
+
+#: view/admin/settings.php:16
+msgid "No of Tweets"
+msgstr ""
+
+#. Name of the plugin
+msgid "Recent Tweet Widget"
+msgstr ""
+
+#: view/admin/settings.php:6
+msgid "Recent Tweets Widget Settings"
+msgstr ""
+
+#: view/admin/settings.php:9 view/admin/settings.php:23
+#: view/admin/settings.php:30 view/admin/settings.php:37
+#: view/admin/settings.php:44
+msgid "required"
+msgstr ""
+
+#: view/admin/settings.php:52
+msgid "Save"
+msgstr ""
+
+#: view/admin/settings.php:55
+msgid "Shortcode"
+msgstr ""
+
+#: view/frontend/widget.php:20
+msgid "Sorry. No tweets found!"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a recent twitter feed widget. This plugin will allow you to display "
+"recent tweets to your widget area. This plugin is compatible with api v1.1. "
+"so no warries. :)"
+msgstr ""
+
+#: view/admin/settings.php:9
+msgid "Twitter Username"
+msgstr ""

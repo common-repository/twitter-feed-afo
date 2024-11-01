@@ -1,0 +1,26 @@
+msgid "Recent Tweet Widget Settings"
+msgstr "Seneste tweet widget-indstillinger"
+
+msgid "Twitter Username"
+msgstr "Twitter brugernavn"
+
+msgid "No of Tweets"
+msgstr "Ingen af ​​tweets"
+
+msgid "Consumer Key"
+msgstr "Forbruger nøgle"
+
+msgid "Consumer Secret"
+msgstr "Forbrugerhemmelighed"
+
+msgid "Access Token"
+msgstr "Adgangstokenet"
+
+msgid "Access Token Secret"
+msgstr "Access Token Secret"
+
+msgid "Save"
+msgstr "Gemme"
+
+msgid "Sorry. No tweets found!"
+msgstr "Undskyld. Ingen tweets fundet!"
